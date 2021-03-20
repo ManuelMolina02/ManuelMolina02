@@ -1,3 +1,8 @@
+
+<p align="left">
+  <img alt="Gif de boas vindas" width="160px" src="https://github.com/ManuelMolina02/portifolio/blob/main/assets/gretings.gif" />
+</p>
+
 <center>
 <table>
     <tr>
