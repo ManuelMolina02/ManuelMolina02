@@ -13,7 +13,7 @@ Como estudante programação busco me especializar em um conjunto de ferramentas
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Languages
 
@@ -22,4 +22,4 @@ Como estudante programação busco me especializar em um conjunto de ferramentas
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMolina02&layout=compact&theme=vision-friendly-dark" alt="linguagens de programação Manuel Molina"/>
 </p>
 
-<br><br>
+<br>
