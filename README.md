@@ -1,5 +1,5 @@
 
-Como estudante programação busco me especializar em um conjunto de ferramentas baseadas em JavaScript, utilizando estruturas como ReactJS e VueJS no front-end e NodeJS no back-end. Acreditando sempre no aprendizado constante, busco sempre atingir formas mais eficazes e sucintas de representar os fatores e adversidades presentes no dia-a-dia.
+Como estudante programação busco me especializar em um conjunto de ferramentas baseadas em JavaScript, utilizando estruturas como ReactJS e VueJS no front-end e NodeJS no back-end. Acreditando no aprendizado constante, busco sempre atingir formas mais eficazes e sucintas de representar os fatores e adversidades presentes no dia-a-dia.
 
 ## 🛠 &nbsp; Stack
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
