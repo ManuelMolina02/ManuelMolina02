@@ -1,5 +1,5 @@
 
-No momento estou estudando NextJS e você pode visualizar o meu projeto de estudos [clicando aqui!](https://searches-nextjs-project.vercel.app/) 
+No momento estou estudando NextJS e você pode visualizar o projeto principal [clicando aqui!](https://searches-nextjs-project.vercel.app/) 
 
 ## 🛠 &nbsp; Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
