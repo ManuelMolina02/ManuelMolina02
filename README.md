@@ -14,6 +14,6 @@ No momento estou estudando NextJS e você pode visualizar o projeto principal [c
 ## ⚙️ &nbsp;GitHub Languages
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ManuelMolina02&show_icons=true&theme=vision-friendly-dark" alt="ManuelMolina02's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMolina02&layout=compact&theme=vision-friendly-dark" alt="linguagens de programação Manuel Molina"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ManuelMolina02&show_icons=true&theme=vision-friendly-dark" alt="ManuelMolina02's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMolina02&layout=compact&theme=vision-friendly-dark" alt="linguagens de programação Manuel Molina"/>
 </p>
