@@ -1,6 +1,6 @@
 Busco me especializar em um conjunto de ferramentas baseadas em JavaScript, utilizando bibliotecas como ReactJS e VueJS no front-end e NodeJS no back-end. Minha atuação profissional sempre esteve relacionada a analisar conjuntos de informações e validar diferentes tipos de processos, sejam eles em métricas e rotinas operacionais ou até mesmo em instalações de infraestrutura de rede. Acreditando sempre no aprendizado constante, ingressei na área de desenvolvimento há dois anos, com o intuito de atingir formas mais eficazes e sucintas de representar os fatores e adversidades presentes no dia-a-dia.
 
-No momento estou estudando NextJS e você pode visualizar o projeto principal [clicando aqui!](https://searches-nextjs-project.vercel.app/) 
+No momento estou estudando NextJS e você pode visualizar o projeto principal [clicando aqui!](https://south-america-prism.vercel.app/) 
 
 ## 🛠 &nbsp; Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
