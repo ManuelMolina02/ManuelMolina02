@@ -3,8 +3,8 @@ teste
 No momento estou estudando NextJS e você pode visualizar o projeto principal [clicando aqui!](https://south-america-prism.vercel.app/) 
 
 ## 🛠 &nbsp; Stack
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=vue)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
